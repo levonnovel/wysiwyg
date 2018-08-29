@@ -1,0 +1,316 @@
+﻿body {
+	background-image: radial-gradient(circle, #bec1c7, #c8c4ce, #d6c6d0, #e4c8cb, #eccdc3);
+}
+
+#main {
+	width: 100%;
+	margin: 60px 0;
+}
+
+PopUp {
+	height: 550px;
+	width: 700px;
+	display: block;
+	background: #f2f2f2;
+	box-shadow: 3px 1px 10px 5px rgba(156, 152, 152, 0.49);
+	margin: 0 auto;
+}
+
+center {
+	display: none;
+}
+
+TitleBar {
+	height: 30px;
+	width: 100%;
+	display: block;
+	line-height: 30px;
+	background: #c4c4c4;
+	padding: 0 5px;
+	cursor: all-scroll;
+}
+
+	TitleBar button {
+		height: 20px;
+		width: 20px;
+		float: right;
+		margin: 5px 2px;
+		cursor: pointer;
+		background: url(images/max_min_close.png);
+		background-color: #ffffff;
+		box-shadow: 1px 1px 2px 1px rgba(21, 20, 20, 0.49);
+		border: none;
+		border-radius: 2px;
+		margin: 5px 4px;
+		cursor: pointer;
+	}
+
+#titlebarButton0 {
+	background-position: -85.5px -20px;
+}
+
+#titlebarButton1 {
+	background-position: -54px -20px;
+}
+
+#titlebarButton2 {
+	background-position: -18px -20px;
+}
+
+Content {
+	height: 400px;
+	width: 75%;
+	display: inline-block;
+	background: #ffffff;
+	border: 1px solid #dddddd;
+	vertical-align: top;
+	padding: 10px;
+}
+
+[contenteditable]:focus {
+	outline: 0px solid transparent;
+}
+
+ButtonBar {
+	height: 50px;
+	width: 100%;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	background: grey;
+}
+
+.new {
+	height: 35px;
+	width: 70px;
+	margin: 5px;
+	border: none;
+	border-radius: 3px;
+	cursor: pointer;
+	font-family: Handlee-Regular;
+}
+
+.uploadButton {
+	width: 90px;
+}
+
+ToolBar {
+	height: 90px;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-around;
+	padding: 0 9px;
+}
+
+	ToolBar span {
+		height: 30px;
+		width: 30px;
+		display: inline-block;
+		background: url(images/wysiwyg-editor-gui-gark-light1.png);
+		background-color: #ffffff;
+		box-shadow: 1px 1px 2px 1px rgba(21, 20, 20, 0.49);
+		border: none;
+		border-radius: 2px;
+		margin: 5px 2px;
+		cursor: pointer;
+	}
+
+.firstRow, .secondRow {
+	display: flex;
+	width: 100%;
+}
+
+	.firstRow span:nth-of-type(1) {
+		background-position: -38px -55px;
+	}
+
+	.firstRow span:nth-of-type(2) {
+		background-position: -73px -55px;
+	}
+
+	.firstRow span:nth-of-type(3) {
+		background-position: -107px -55px;
+	}
+
+	.firstRow span:nth-of-type(4) {
+		background-position: -142px -55px;
+		margin-right: 10px;
+	}
+
+	.firstRow span:nth-of-type(5) {
+		background-position: -183px -55px;
+	}
+
+	.firstRow span:nth-of-type(6) {
+		background-position: -218px -55px;
+	}
+
+	.firstRow span:nth-of-type(7) {
+		background-position: -250px -55px;
+		margin-right: 10px;
+	}
+
+	.firstRow span:nth-of-type(8) {
+		background-position: -294px -55px;
+	}
+
+	.firstRow span:nth-of-type(9) {
+		background-position: -326px -55px;
+	}
+
+	.firstRow span:nth-of-type(10) {
+		background-position: -359px -55px;
+		margin-right: 10px;
+	}
+
+	.firstRow span:nth-of-type(11) {
+		background-position: -402px -55px;
+	}
+
+	.firstRow span:nth-of-type(12) {
+		background-position: -437px -55px;
+	}
+
+	.firstRow span:nth-of-type(13) {
+		background-position: -471px -55px;
+		margin-right: 10px;
+	}
+
+	.firstRow span:nth-of-type(14) {
+		background-position: -501px -55px;
+	}
+
+	.firstRow span:nth-of-type(15) {
+		background-position: -535px -55px;
+	}
+
+	.firstRow span:nth-of-type(16) {
+		background-position: -568px -55px;
+		margin-right: 10px;
+	}
+
+	.firstRow span:nth-of-type(17) {
+		width: 86px;
+		background-position: -612px -55px;
+	}
+
+	.secondRow span:nth-of-type(1) {
+		background-position: -38px -99px;
+	}
+
+	.secondRow span:nth-of-type(2) {
+		background-position: -72px -99px;
+		margin-right: 10px;
+	}
+
+	.secondRow span:nth-of-type(3) {
+		background-position: -115px -99px;
+	}
+
+	.secondRow span:nth-of-type(4) {
+		background-position: -149px -99px;
+	}
+
+	.secondRow span:nth-of-type(5) {
+		background-position: -182px -99px;
+	}
+
+	.secondRow span:nth-of-type(6) {
+		background-position: -214px -99px;
+		margin-right: 10px;
+	}
+
+	.secondRow span:nth-of-type(7) {
+		width: 155px;
+		background-position: -260px -99px;
+		margin-right: 10px;
+	}
+
+	.secondRow span:nth-of-type(8) {
+		width: 78px;
+		background-position: -431px -99px;
+		margin-right: 10px;
+	}
+
+	.secondRow span:nth-of-type(9) {
+		background-position: -513px -99px;
+		margin-right: 10px;
+	}
+
+	.secondRow span:nth-of-type(10) {
+		background-position: -556px -99px;
+	}
+
+	.secondRow span:nth-of-type(11) {
+		background-position: -590px -99px;
+		margin-right: 10px;
+	}
+
+	.secondRow span:nth-of-type(12) {
+		background-position: -634px -99px;
+	}
+
+	.secondRow span:nth-of-type(13) {
+		background-position: -665px -99px;
+	}
+
+	.secondRow span:nth-of-type(14) {
+		background-position: -218px -55px;
+	}
+
+	.secondRow span:nth-of-type(15) {
+		background-position: -218px -55px;
+	}
+
+FileBar {
+	height: 400px;
+	width: 25%;
+	display: inline-block;
+	text-align: center;
+	padding: 10px 15px;
+	border: 1px solid #dddddd;
+}
+
+#currFile {
+	height: 30px;
+	line-height: 30px;
+	border: 1px dashed grey;
+	text-align: center;
+	background: #ffffff;
+}
+
+#bottom {
+	height: 30px;
+	width: 200px;
+	position: absolute;
+	bottom: 0;
+}
+
+.minMax {
+	height: 30px;
+	width: 200px;
+}
+
+.active {
+	cursor: pointer;
+}
+
+.hide {
+	display: none;
+}
+
+.show {
+	display: inline-block;
+}
+
+.fullScreen {
+	height: 100%;
+	width: 100%;
+}
+
+footer {
+	width: 100%;
+	background: #fff;
+}

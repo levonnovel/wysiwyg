@@ -1,0 +1,37 @@
+﻿@using WYSIWYG.Models
+@using System.Web.Script.Serialization
+
+@model string[]
+
+@{
+Layout = "~/Views/Shared/Layout.cshtml";
+}
+<link href="~/Content/all.css" rel="stylesheet" />
+<link href="~/Content/index.css" rel="stylesheet" />
+
+
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/my scipts/panel.js"></script>
+<script src="~/Scripts/my scipts/content.js"></script>
+<script src="~/Scripts/my scipts/bars/bar.js"></script>
+<script src="~/Scripts/my scipts/bars/buttonbar.js"></script>
+<script src="~/Scripts/my scipts/bars/filebar.js"></script>
+<script src="~/Scripts/my scipts/bars/titlebar.js"></script>
+<script src="~/Scripts/my scipts/bars/toolbar.js"></script>
+<script src="~/Scripts/my scipts/popup.js"></script>
+<script src="~/Scripts/my scipts/main.js"></script>
+
+<div id="main"></div>
+
+<script>
+	$(() => {
+		var files = @Html.Raw((new JavaScriptSerializer()).Serialize(Model));
+		//debugger
+		for (var index in files) {
+			//debugger
+			$('filebar').append($('<div>').text(files[index]));
+		}
+		$('titlebar').append('@Session["LogIn"]');
+	});
+
+</script>

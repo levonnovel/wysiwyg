@@ -1,0 +1,86 @@
+﻿@{
+	ViewBag.Title = "View";
+	Layout = "~/Views/Shared/Layout.cshtml";
+}
+<link href="~/Content/all.css" rel="stylesheet" />
+<link href="~/Content/registration.css" rel="stylesheet" />
+<div class="regContainer">
+	<div class="formContainer">
+		<div class="loginContainer">
+			<p>Have an account?</p>
+			<button id="login">Sign In</button>
+		</div>
+		<div class="registerContainer">
+			<p>Don't have an account?</p>
+			<button id="signin">Sign Up</button>
+		</div>
+	</div>
+	<div class="wrapper">
+		@using (Html.BeginForm("CreateUser", "Home", FormMethod.Post, new {id="signinForm", @class = "hide"}))
+		{
+
+		<div class="leftSide">
+			<div>
+				<label for="FName">First Name</label>
+				<input type="text" id="FName" name="FirstName" placeholder="First Name" />
+			</div>
+			<div>
+				<label for="EMail">EMail</label>
+				<input type="email" id="EMail" name="EMail" placeholder="EMail" />
+			</div>
+			<div>
+				<label for="Pass">Password</label>
+				<input type="password" id="Pass" name="Password" placeholder="Password" />
+			</div>
+		</div>
+		<div class="rightSide">
+			<div>
+				<label for="LName">Last Name</label>
+				<input type="text" id="LName" name="LastName" placeholder="Last Name" />
+			</div>
+			<div>
+				<label for="Login">UserName</label>
+				<input type="text" id="Login" name="Login" placeholder="Login" />
+			</div>
+			<div>
+				<label for="confPass">Confirm Password</label>
+				<input type="password" id="confPass" name="Confirm Password" placeholder="Confirm Password" />
+			</div>
+		</div>
+		<div class="submitWrapper">
+			<button id="signinButton">Sign Up</button>
+		</div>
+		}
+		@using (Html.BeginForm("CheckUser", "Home", FormMethod.Get, new {id="loginForm", @class = ""}))
+		{
+		<input type="text" name="LogIn" placeholder="LogIn" />
+		<input type="password" name="Password" placeholder="Password" />
+		<button id="loginButton">Sign In</button>
+		}
+	</div>
+</div>
+<script type="text/javascript">
+	var str = '@Html.Raw(TempData["alertMessage"])';
+
+	if (str) {
+		console.log(123);
+		alert(str);
+	}
+	var $wrapper = document.getElementsByClassName('wrapper'),
+		$signin = document.getElementById('signin'),
+		$login = document.getElementById('login'),
+		$loginForm = document.getElementById('loginForm'),
+		$signinForm = document.getElementById('signinForm');
+	$signin.onclick = function (e) {
+
+		$wrapper[0].classList.add('movement');
+		$loginForm.classList.add('hide');
+		$signinForm.classList.remove('hide');
+	};
+	$login.onclick = function (e) {
+		$wrapper[0].classList.remove('movement');
+		$loginForm.classList.remove('hide');
+		$signinForm.classList.add('hide');
+	}
+</script>
+

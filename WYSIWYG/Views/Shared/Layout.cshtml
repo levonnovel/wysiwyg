@@ -1,0 +1,38 @@
+﻿<!DOCTYPE>
+<html>
+<head>
+	<link rel="shortcut icon" href="~/Content/images/favicon.png" />
+	@*
+	<link rel="stylesheet" href="~/Content/all.css" />
+	<link rel="stylesheet" href="~/Content/home.css" />*@
+	<title>WYSIWYG</title>
+</head>
+<body>
+	<div class="container">
+		<navbar>
+			<ul>
+				<li><a class="logo" href="#"><img class="logoImg" alt="logo" src="~/Content/images/logo.png" /></a></li>
+				<li>@Html.ActionLink("Home", "Home", "Home")</li>
+				<li>@Html.ActionLink("LogIn", "Registration", "Home")</li>
+				<li>
+					<a href="#">Choose Design<div class="arrow-down"></div></a>
+					<ul class="dropdown">
+						<li><a href="#">Dark</a></li>
+						<li><a href="#">Light</a></li>
+					</ul>
+				</li>
+			</ul>
+		</navbar>
+		@RenderBody()
+		<footer>
+			<ul>
+				<li><a href="#" class="facebook"></a></li>
+				<li><a href="#" class="twitter"></a></li>
+				<li><a href="#" class="tumbler"></a></li>
+				<li><a href="#" class="pinterest"></a></li>
+			</ul>
+			<p>Copyright Zara & Levon, 2018</p>
+		</footer>
+	</div>
+</body>
+</html>

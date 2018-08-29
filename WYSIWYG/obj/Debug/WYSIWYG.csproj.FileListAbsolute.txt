@@ -1,0 +1,84 @@
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\WYSIWYG.dll.config
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\WYSIWYG.dll
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\WYSIWYG.pdb
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\System.Web.Helpers.dll
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\System.Web.Mvc.dll
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\System.Web.Razor.dll
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.Deployment.dll
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.dll
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.Razor.dll
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\System.Web.Razor.xml
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.xml
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.Deployment.xml
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.Razor.xml
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\System.Web.Helpers.xml
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\bin\System.Web.Mvc.xml
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\obj\Debug\WYSIWYG.csproj.CoreCompileInputs.cache
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\obj\Debug\WYSIWYG.dll
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\obj\Debug\WYSIWYG.pdb
+C:\Users\leomax\source\repos\WYSIWYG\WYSIWYG\obj\Debug\WYSIWYG.csprojResolveAssemblyReference.cache
+D:\WYSIWYG\WYSIWYG\bin\WYSIWYG.dll
+D:\WYSIWYG\WYSIWYG\bin\WYSIWYG.pdb
+D:\WYSIWYG\WYSIWYG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WYSIWYG\WYSIWYG\bin\Microsoft.Web.Infrastructure.dll
+D:\WYSIWYG\WYSIWYG\bin\System.Web.Helpers.dll
+D:\WYSIWYG\WYSIWYG\bin\System.Web.Mvc.dll
+D:\WYSIWYG\WYSIWYG\bin\System.Web.Razor.dll
+D:\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.Deployment.dll
+D:\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.dll
+D:\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.Razor.dll
+D:\WYSIWYG\WYSIWYG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WYSIWYG\WYSIWYG\bin\System.Web.Razor.xml
+D:\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.xml
+D:\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.Deployment.xml
+D:\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.Razor.xml
+D:\WYSIWYG\WYSIWYG\bin\System.Web.Helpers.xml
+D:\WYSIWYG\WYSIWYG\bin\System.Web.Mvc.xml
+D:\WYSIWYG\WYSIWYG\obj\Debug\WYSIWYG.csprojResolveAssemblyReference.cache
+D:\WYSIWYG\WYSIWYG\obj\Debug\WYSIWYG.dll
+D:\WYSIWYG\WYSIWYG\obj\Debug\WYSIWYG.pdb
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\bin\WYSIWYG.dll
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\bin\WYSIWYG.pdb
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\bin\System.Web.Helpers.dll
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\bin\System.Web.Mvc.dll
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\bin\System.Web.Razor.dll
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.Deployment.dll
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.dll
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.Razor.dll
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\bin\System.Web.Razor.xml
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.xml
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.Deployment.xml
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\bin\System.Web.Webpages.Razor.xml
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\bin\System.Web.Helpers.xml
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\bin\System.Web.Mvc.xml
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\obj\Debug\WYSIWYG.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\obj\Debug\WYSIWYG.dll
+C:\Users\user\Dropbox\Zara (2)\ogma\project with jquey\WYSIWYG\WYSIWYG\obj\Debug\WYSIWYG.pdb
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\WYSIWYG.dll.config
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\WYSIWYG.dll
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\WYSIWYG.pdb
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\System.Web.Helpers.dll
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\System.Web.Mvc.dll
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\System.Web.Razor.dll
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\System.Web.Webpages.Deployment.dll
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\System.Web.Webpages.dll
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\System.Web.Webpages.Razor.dll
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\System.Web.Razor.xml
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\System.Web.Webpages.xml
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\System.Web.Webpages.Deployment.xml
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\System.Web.Webpages.Razor.xml
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\System.Web.Helpers.xml
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\bin\System.Web.Mvc.xml
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\obj\Debug\WYSIWYG.csproj.CoreCompileInputs.cache
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\obj\Debug\WYSIWYG.csproj.CopyComplete
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\obj\Debug\WYSIWYG.dll
+C:\Users\leomax\Desktop\web\myProjects\wysiwygReal\WYSIWYGDesigned\WYSIWYG\obj\Debug\WYSIWYG.pdb
