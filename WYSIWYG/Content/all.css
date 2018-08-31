@@ -1,8 +1,8 @@
 * {
-	padding: 0;
-	margin: 0;
-	box-sizing: border-box;
-	font-family: Handlee-Regular;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
 }
 
 html {
@@ -11,8 +11,8 @@ html {
 }
 
 @font-face {
-	font-family: Handlee-Regular;
-	src: url(../fonts/Handlee-Regular.ttf);
+    font-family: 'Montserrat', sans-serif;
+    src: url(../fonts/Handlee-Regular.ttf);
 }
 
 body {
@@ -50,7 +50,7 @@ navbar {
 }
 
 navbar li {
-	width: 155px;
+	width: 190px;
 	list-style: none;
 	float: left;
 	font-size: 18px;
@@ -59,13 +59,13 @@ navbar li {
 }
 
 .logo {
-	width: 100px;
-	font-size: 28px;
+	/*width: 20px;
+	font-size: 28px;*/
 }
 
 .logoImg {
-	height: 50px;
-	width: 50px;
+	/*height: 50px;
+	width: 50px;*/
 	vertical-align: middle;
 }
 
